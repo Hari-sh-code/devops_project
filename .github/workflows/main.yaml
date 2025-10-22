@@ -49,8 +49,6 @@ jobs:
           path: dist/
           retention-days: 7
 
-  # Security and Quality Checks
-  security-audit:
     name: Security Audit
     runs-on: ubuntu-latest
     
