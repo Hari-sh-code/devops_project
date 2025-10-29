@@ -8,7 +8,6 @@
 
 # production
 /build
-dist
 
 # cache
 .electron-vendors.cache.json
